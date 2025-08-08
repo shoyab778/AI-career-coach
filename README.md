@@ -7,13 +7,12 @@ AI Career Coach is a smart, AI-powered web app that helps individuals choose and
 - Chatbot for career advice using NLP
 - Career path suggestions based on skills
 - Skill gap analysis and recommendations
-- Hosted on Vercel for easy access
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python with Flask
 - **AI Models:** BERT, ML models
-- **Deployment:** GitHub, Vercel
+- **Deployment:** GitHub
 
 ## ⚙️ Setup
 ```bash
